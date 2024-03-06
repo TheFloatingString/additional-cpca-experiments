@@ -1,2 +1,8 @@
 # Ignore venv folder
 venv
+
+# Ignore checkpoints
+**ipynb_checkpoints
+
+# Ignore contrastive folder
+notebooks/contrastive
