@@ -1,0 +1,5 @@
+results:
+  no_cpca:
+    acc: 0.853
+    classifier: svc
+task_id: 11
