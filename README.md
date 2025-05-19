@@ -2,9 +2,19 @@
 
 ### Quickstart
 
+Install packages
+
 ```bash
 uv sync
 ```
+
+Run experiments
+
+```bash
+uv run src/cpca_exp/run_experiment --task-id "<OpenML task id>"
+```
+
+
 
 
 ## Claims that We're Trying to Make
