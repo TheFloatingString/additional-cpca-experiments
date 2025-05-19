@@ -1,5 +1,12 @@
 # Additional cPCA Experiments
 
+### Quickstart
+
+```bash
+uv sync
+```
+
+
 ## Claims that We're Trying to Make
 
 1. cPCA-preprocessed data yields better model performance downstream, compared to PCA
