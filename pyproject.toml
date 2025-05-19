@@ -1,0 +1,15 @@
+[project]
+name = "cpca_exp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "contrastive>=1.2.0",
+    "scikit-learn>=1.6.1",
+    "xgboost>=3.0.1",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

@@ -6,3 +6,6 @@ venv
 
 # Ignore contrastive folder
 notebooks/contrastive
+
+# Ignore __pycache__
+**__pycache__
