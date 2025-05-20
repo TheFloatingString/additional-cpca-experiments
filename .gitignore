@@ -9,3 +9,6 @@ notebooks/contrastive
 
 # Ignore __pycache__
 **__pycache__
+
+# Ignore logfiles
+*.log
