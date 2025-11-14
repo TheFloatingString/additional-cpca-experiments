@@ -21,3 +21,8 @@ build-backend = "hatchling.build"
 
 [tool.uv.sources]
 tabicl = { git = "https://github.com/soda-inria/tabicl.git" }
+
+[tool.uv.workspace]
+members = [
+    "src/modal",
+]
