@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(modal run tabpfn_emotion_analysis.py)",
+      "Bash(modal run:*)",
+      "Bash(set PYTHONIOENCODING=utf-8:*)",
+      "Bash(export PYTHONIOENCODING=\"utf-8\")",
+      "Bash(python -c:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
